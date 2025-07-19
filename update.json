@@ -17,10 +17,10 @@
       "Size": 46979,
       "EditorIgnore": true
     },
-	    {
+    {
       "Path": "resources/config.json",
-      "Hash": "2020d755120f7cba50fb62aba3a98f79",
-      "Size": 1389
+      "Hash": "9134a2135a00cf99bba950e9ea1b3130",
+      "Size": 1348
     },
     {
       "Path": "resources/data.json",
@@ -51102,11 +51102,6 @@
       "ClientIgnore": true
     },
     {
-      "Path": "resources/tilesets/0d50181304bb1e3074955c29364fed3d.jpg",
-      "Hash": "21edaa52c0e600e0aec6061e25952927",
-      "Size": 27276
-    },
-    {
       "Path": "resources/tilesets/1.png",
       "Hash": "916af5e49343045d5b864863ec44506d",
       "Size": 385197,
@@ -51483,11 +51478,6 @@
       "Hash": "f573e1f2467dfc3dd41ce6ac6cf8e693",
       "Size": 32554,
       "ClientIgnore": true
-    },
-    {
-      "Path": "resources/tilesets/damlay2.jpg",
-      "Hash": "4a5f47764e783af24e0cc0fdea16ac82",
-      "Size": 369915
     },
     {
       "Path": "resources/tilesets/dd6uuwh-471eada3-cc2b-4b75-8bfa-4ecb9c7dd219.png",
