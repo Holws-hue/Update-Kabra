@@ -10,13 +10,11 @@
       "Path": "Kabra Online.exe",
       "Hash": "1587748c0da7792826e03dce627bd4b2",
       "Size": 46768102
-
     },
     {
       "Path": "mi_icono.ico",
       "Hash": "2d707c16c62a6946e79a741b7f445368",
       "Size": 4113
-	
     },
     {
       "Path": "resources/client_strings.json",
@@ -28,7 +26,6 @@
       "Path": "resources/config.json",
       "Hash": "2020d755120f7cba50fb62aba3a98f79",
       "Size": 1303
-	    "ClientIgnore": true
     },
     {
       "Path": "resources/data.json",
@@ -10965,7 +10962,6 @@
       "Path": "resources/gui/layouts/layouts.rar",
       "Hash": "46b8459bd36fbe0c84e599cfa7ffaf78",
       "Size": 132810
-	  "ClientIgnore": true
     },
     {
       "Path": "resources/gui/layouts/debug/DebugWindow.json",
@@ -11522,25 +11518,21 @@
       "Path": "resources/images/2 cartel de bienvenida.psd",
       "Hash": "26a9a2c26c7d584da88667549b25c2db",
       "Size": 1753692
-	   "ClientIgnore": true
     },
     {
       "Path": "resources/images/2.psd",
       "Hash": "bdb6c14a093e6adc56e74133cf114a46",
       "Size": 751641
-	   "ClientIgnore": true
     },
     {
       "Path": "resources/images/3.psd",
       "Hash": "76cd673777c6d8c1be439f0266585e38",
       "Size": 1380575
-	   "ClientIgnore": true
     },
     {
       "Path": "resources/images/castillo objetos.psd",
       "Hash": "9aeaf27e303033e012fea84674083483",
       "Size": 291822
-	   "ClientIgnore": true
     },
     {
       "Path": "resources/images/Consejo_habilidades.png",
@@ -42526,25 +42518,21 @@
       "Path": "resources/updater/background.png",
       "Hash": "c2d0f8f6591f091717127a6c044929f8",
       "Size": 227300
-	   "ClientIgnore": true
     },
     {
       "Path": "resources/updater/font.xnb",
       "Hash": "3f4b8382659011d39e31c504ddeab8b2",
       "Size": 689774
-	   "ClientIgnore": true
     },
     {
       "Path": "resources/updater/fontsmall.xnb",
       "Hash": "8bf12b074d982df36d38b6f8906b7111",
       "Size": 423534
-	   "ClientIgnore": true
     },
     {
       "Path": "resources/updater/progressbar.png",
       "Hash": "bbc858957ccd3da0ddaa8b4cc7941cf0",
       "Size": 23798
-	   "ClientIgnore": true
     }
   ],
   "TrustCache": true
