@@ -10,11 +10,7 @@
       "Path": "Kabra Online.exe",
       "Hash": "1587748c0da7792826e03dce627bd4b2",
       "Size": 46768102
-    },
-    {
-      "Path": "mi_icono.ico",
-      "Hash": "2d707c16c62a6946e79a741b7f445368",
-      "Size": 4113
+
     },
     {
       "Path": "resources/client_strings.json",
@@ -26,6 +22,7 @@
       "Path": "resources/config.json",
       "Hash": "2020d755120f7cba50fb62aba3a98f79",
       "Size": 1303
+	    "ClientIgnore": true
     },
     {
       "Path": "resources/data.json",
@@ -10456,11 +10453,6 @@
       "ClientIgnore": true
     },
     {
-      "Path": "resources/gui/logo.psd",
-      "Hash": "b0f662ca919b7d00c36cd24206c2e424",
-      "Size": 203304
-    },
-    {
       "Path": "resources/gui/lootwindow.png",
       "Hash": "2193479ffa4a89551c17dd7d29507c4f",
       "Size": 5006,
@@ -10962,6 +10954,7 @@
       "Path": "resources/gui/layouts/layouts.rar",
       "Hash": "46b8459bd36fbe0c84e599cfa7ffaf78",
       "Size": 132810
+	  "ClientIgnore": true
     },
     {
       "Path": "resources/gui/layouts/debug/DebugWindow.json",
@@ -11504,35 +11497,28 @@
       "Size": 400821
     },
     {
-      "Path": "resources/images/1.psd",
-      "Hash": "7852cff5e7ed778c963ad00cdd1f342c",
-      "Size": 5010546
-    },
-    {
       "Path": "resources/images/2 cartel de bienvenida.png",
       "Hash": "a215a7e73687265b8a52ae4c13d4ce8d",
       "Size": 216400,
       "ClientIgnore": true
     },
     {
-      "Path": "resources/images/2 cartel de bienvenida.psd",
-      "Hash": "26a9a2c26c7d584da88667549b25c2db",
-      "Size": 1753692
-    },
-    {
       "Path": "resources/images/2.psd",
       "Hash": "bdb6c14a093e6adc56e74133cf114a46",
       "Size": 751641
+	   "ClientIgnore": true
     },
     {
       "Path": "resources/images/3.psd",
       "Hash": "76cd673777c6d8c1be439f0266585e38",
       "Size": 1380575
+	   "ClientIgnore": true
     },
     {
       "Path": "resources/images/castillo objetos.psd",
       "Hash": "9aeaf27e303033e012fea84674083483",
       "Size": 291822
+	   "ClientIgnore": true
     },
     {
       "Path": "resources/images/Consejo_habilidades.png",
@@ -11799,20 +11785,10 @@
       "ClientIgnore": true
     },
     {
-      "Path": "resources/images/ruleta.psd",
-      "Hash": "4597960691178134ad0ea87832d59675",
-      "Size": 170743
-    },
-    {
       "Path": "resources/images/ruleta1.png",
       "Hash": "2184d4c615fd425c63f9c1c88d1bc761",
       "Size": 80139,
       "ClientIgnore": true
-    },
-    {
-      "Path": "resources/images/ruleta2.psd",
-      "Hash": "99dac2b9582cabf5e96a69b2d34e5227",
-      "Size": 568317
     },
     {
       "Path": "resources/images/shop_tooltip.png",
@@ -14381,11 +14357,6 @@
       "Hash": "c804ea774afbb7ed503b89fdb59116d6",
       "Size": 372,
       "ClientIgnore": true
-    },
-    {
-      "Path": "resources/items/aaa1.psd",
-      "Hash": "a387527aa44f0a0b0ca00cae87075b58",
-      "Size": 136775
     },
     {
       "Path": "resources/items/Agi Down.png",
@@ -27322,16 +27293,6 @@
       "ClientIgnore": true
     },
     {
-      "Path": "resources/items/Sin título-1.psd",
-      "Hash": "c40ea43a8f54720bb0dd901d9cf975e7",
-      "Size": 13013296
-    },
-    {
-      "Path": "resources/items/Sin título2.psd",
-      "Hash": "3a7029713ce2428bb6eb453dd594096f",
-      "Size": 13114344
-    },
-    {
       "Path": "resources/items/Skill01.png",
       "Hash": "050c123b7c825265265bd3b810a4ad77",
       "Size": 589,
@@ -39385,20 +39346,10 @@
       "ClientIgnore": true
     },
     {
-      "Path": "resources/resources/esmeralda.psd",
-      "Hash": "2464618eba6cc0a50f33178ed9fb9be1",
-      "Size": 42220
-    },
-    {
       "Path": "resources/resources/Green.png",
       "Hash": "6ef190c750cfd773ced92532b05f58fc",
       "Size": 32857,
       "ClientIgnore": true
-    },
-    {
-      "Path": "resources/resources/Green.psd",
-      "Hash": "bc7887a09a075b38615c9cb1dee0d33e",
-      "Size": 66118
     },
     {
       "Path": "resources/resources/Hierro.png",
@@ -42518,21 +42469,25 @@
       "Path": "resources/updater/background.png",
       "Hash": "c2d0f8f6591f091717127a6c044929f8",
       "Size": 227300
+	   "ClientIgnore": true
     },
     {
       "Path": "resources/updater/font.xnb",
       "Hash": "3f4b8382659011d39e31c504ddeab8b2",
       "Size": 689774
+	   "ClientIgnore": true
     },
     {
       "Path": "resources/updater/fontsmall.xnb",
       "Hash": "8bf12b074d982df36d38b6f8906b7111",
       "Size": 423534
+	   "ClientIgnore": true
     },
     {
       "Path": "resources/updater/progressbar.png",
       "Hash": "bbc858957ccd3da0ddaa8b4cc7941cf0",
       "Size": 23798
+	   "ClientIgnore": true
     }
   ],
   "TrustCache": true
