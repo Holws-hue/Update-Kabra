@@ -25,7 +25,7 @@
     "splash2.png",
     "logo.png"
   ],
-  "UpdateUrl": "",
+  "UpdateUrl": "https://github.com/Holws-hue/Update-Kabra/",
   "MouseCursor": "1.png",
   "MusicFadeTimer": 1500,
   "FadeDurationMs": 3000.0,
