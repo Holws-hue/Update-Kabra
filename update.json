@@ -52062,6 +52062,7 @@
       "ClientIgnore": true
     },
     {
+    
       "Path": "resources/updater/background.png",
       "Hash": "e58831a4554b5239016634f7f3809b3d",
       "Size": 749817
