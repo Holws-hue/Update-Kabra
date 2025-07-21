@@ -94,9 +94,6 @@
       "ClientIgnore": true
     },
     {
-      "Path": "resources/gui/layouts/TargetBox.1024x768.json",
-    },
-    {
       "Path": "resources/animations/07.png",
       "Hash": "57b30aaa3e0f62cd8a2c10b0a3701690",
       "Size": 2916,
